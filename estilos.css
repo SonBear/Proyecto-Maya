@@ -1,0 +1,58 @@
+h1{
+  color: white;
+  font-size: 40pt;
+  font-family: serif;
+}
+
+
+HEADER{
+  background-color: white;
+  background-image: none;
+  text-align: left;
+  opacity: 1;
+  border-width: medium;
+  border: black 5px solid;
+
+
+
+}
+H2{
+  font-size: 20pt;
+  text-align: center;
+}
+H4{
+  color: white;
+  font-size: 40pt;
+  font-family: serif;
+  text-decoration: overline;
+  text-align: center;
+}
+
+
+H5{
+  font-size: 20pt;
+  text-align: left;
+  color: black;
+}
+
+.footer{
+  font-family: sans-serif;
+  font-size: 10pt;
+  color: #fff;
+  text-align: center;
+
+
+}
+
+div.jumbotron{
+  background-image:url("fondo.jpg");
+  background-color: #ccf9ff;
+  color: white;
+  margin-left: : 0px;
+  margin-bottom: 0px;
+
+}
+
+p{
+  text-align: justify;
+}
